@@ -3,6 +3,7 @@ apt update
 apt upgrade
 apt install cowsay
 apt install python2
+apt install hydra 
 pip2 install requests
 unzip -o fgroup.zip
 echo "rm -r $HOME/../usr/bin/fgroup">uninstall.sh
